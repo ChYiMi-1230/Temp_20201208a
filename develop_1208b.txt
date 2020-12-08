@@ -3,6 +3,8 @@
 [0.0.3] modify in develop_1208b by new author...alex
 [0.0.4] try to modify author...alex
 [0.0.5] try to modify author...alex
+[0.0.6] try to modify author...git config user.name "alex"
+
 
 
 
