@@ -1,4 +1,6 @@
 [0.0.1] hello world!
 [0.0.2] added in window 10...alex
 [0.0.3] added in Unbuntu 12...alex
-[0.0.3] added in win 10...alex
+[0.0.4] added in win 10...alex
+[0.0.5] modify user.name, user.email in win 10...alex
+
