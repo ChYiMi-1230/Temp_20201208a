@@ -4,6 +4,8 @@
 [0.0.4] try to modify author...alex
 [0.0.5] try to modify author...alex
 [0.0.6] try to modify author...git config user.name "alex"
+[0.0.7] try to modify author...git config user.email "chyimi1230@gmail.com"
+
 
 
 
