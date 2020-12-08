@@ -1,1 +1,3 @@
 [0.0.1] add in develop_1208b...alex
+[0.0.2] modify in develop_1208b...alex
+
